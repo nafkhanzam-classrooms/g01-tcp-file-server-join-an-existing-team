@@ -4,7 +4,7 @@
 ## Anggota Kelompok
 | Nama           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-|                |            |           |
+| Akmal Yusuf    | 5025241212 | C         |
 |                |            |           |
 
 ## Link Youtube (Unlisted)
