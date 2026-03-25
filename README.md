@@ -16,6 +16,8 @@ https://youtu.be/zw4ebf-N-JY
 ## Penjelasan Program
 Proyek ini adalah implementasi sistem Client-Server berbasis protokol TCP menggunakan bahasa pemrograman Python. Proyek ini mendemonstrasikan empat arsitektur server yang berbeda untuk menangani blocking I/O, serta implementasi client berbasis multithreading.
 
+Terdapat beberapa file dummy yang dapat digunakan untuk mendemonstrasikan program yang tersimpan pada folder `files` dan `saved`. Folder `files` dimaksudkan untuk dimiliki oleh server, sedangkan folder `saved` adalah milik client. Penggunaan folder bertujuan untuk menjaga kerapian files.
+
 How to run:
 1. Menjalankan Server
 Buka terminal dan jalankan salah satu dari empat skrip server yang tersedia. Contoh:
