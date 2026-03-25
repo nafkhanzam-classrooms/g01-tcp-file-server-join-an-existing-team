@@ -29,10 +29,10 @@ python3 client.py
 ```
 
 3. Daftar Perintah (Commands) di Klien
-Ketik pesan biasa: Pesan akan di-broadcast ke seluruh klien lain yang terhubung.
-`/list`: Melihat daftar file yang tersedia di folder `files/` milik server.
-`/download <nama_file>`: Mengunduh file dari server dan menyimpannya ke folder `saved/` klien. (Contoh: /download beluga.png)
-`/upload <nama_file>`: Mengunggah file dari folder `saved/` klien ke folder files/ server. (Contoh: /upload gokil.jpg)
+- Ketik pesan biasa: Pesan akan di-broadcast ke seluruh klien lain yang terhubung.
+- `/list`: Melihat daftar file yang tersedia di folder `files/` milik server.
+- `/download <nama_file>`: Mengunduh file dari server dan menyimpannya ke folder `saved/` klien. (Contoh: /download beluga.png)
+- `/upload <nama_file>`: Mengunggah file dari folder `saved/` klien ke folder files/ server. (Contoh: /upload gokil.jpg)
 
 
 ## Screenshot Hasil
